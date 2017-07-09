@@ -1,0 +1,11 @@
+This is the main ‘Life File’
+
+Primary Objectives:
+
+1. Wake up
+2. Eat Breakfast
+3. Do Chores
+4. Make Lunch
+5. Look at Bucket List
+6. Do Chores
+7. Go to Sleep
