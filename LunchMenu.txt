@@ -1,0 +1,9 @@
+Lunch Menu:
+
+Monday    - Baked Chicken
+Tuesday   - Seared Tuna
+Wednesday - Spicy Burrito
+Thursday  - Pizza
+Friday    - Spicy Burrito
+Saturday  - Spicy Burrito
+Sunday    - Spicy Burrito
