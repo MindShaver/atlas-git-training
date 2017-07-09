@@ -1,9 +1,9 @@
 Lunch Menu:
 
-Monday    - Spicy Burrito
-Tuesday   - Spicy Burrito
-Wednesday - Spicy Burrito
-Thursday  - Spicy Burrito
-Friday    - Spicy Burrito
-Saturday  - Spicy Burrito
-Sunday    - Spicy Burrito
+Monday    - Pasta
+Tuesday   - Water and Fruit
+Wednesday - Ramen
+Thursday  - One Saltine Cracker
+Friday    - Almonds
+Saturday  - 2 Cheetos and a Sip of Coke
+Sunday    - Filet Mignon
